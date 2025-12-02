@@ -32,6 +32,19 @@
         width: 100%;
         text-align: center;
     }
+    .feature-col{
+        flex-direction: column;
+    }
+    #feature-rev{
+        flex-direction: column-reverse;
+    }
+    .footer-section{
+        flex-direction: column;
+        align-items: center;
+    }
+    .sub-footer{
+        flex-direction: row;
+    }
 }
 @media (width <=479px){
     :root{
