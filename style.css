@@ -262,3 +262,6 @@ footer{
 .col-menu a {
     color: var(--primary-text-color);
 }
+.sub-footer {
+    flex-direction: column;
+}
